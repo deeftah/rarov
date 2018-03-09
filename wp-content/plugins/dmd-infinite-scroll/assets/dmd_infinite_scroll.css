@@ -1,0 +1,19 @@
+.dmd_ajax_product_load
+{
+	display: block;
+	text-align: center;
+}
+.dmd_previous_page,
+.dmd_next_page
+{
+	clear: both;
+	text-align: center;
+}
+.dmd_ajax_product_load img
+{
+	display: inline-block;
+	height: 50px!important;
+}
+.dmd_prev_page a {
+	display: inline-block;
+}
